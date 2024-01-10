@@ -1,7 +1,7 @@
 # Titanic Dataset Exploratory Data Analysis (EDA)
 
 ## Overview:
-This repository contains exploratory data analysis (EDA) on the Titanic dataset, focusing on understanding and visualizing various aspects of the passengers' information. The analysis is performed using Python and popular data analysis libraries. The dataset, which is included in the repository **(titanic_dataset.csv)**
+This repository contains exploratory data analysis (EDA) on the Titanic dataset, focusing on understanding and visualizing various aspects of the passengers' information. The analysis is performed using Python and popular data analysis libraries.<br> The dataset, which is included in the repository **(titanic_dataset.csv)**
 
 ## Dataset Information:
 The dataset includes information about Titanic passengers, such as their Pclass (class), Age, Sex, Fare, Survival status, and more.
