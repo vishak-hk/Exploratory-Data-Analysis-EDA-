@@ -9,7 +9,7 @@ The dataset includes information about Titanic passengers, such as their Pclass 
 ## Analysis Steps:
 
 1. Identifying Missing Values:
-   * The dataset is examined to identify and handle missing values.
+   * The dataset is thoroughly examined to identify missing values in each column.
 
 2. describe() Method:
    * A summary of the dataset is generated using the describe() method, providing insights into numerical features.
